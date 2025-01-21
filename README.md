@@ -1,7 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Tushar
 
-🚀 **Full Stack Developer** from India  
-🛠️ Working on cutting-edge software during weekdays  
+🚀 **Full Stack Developer** from India   
 💡 Passionate about building **large-scale systems** using advanced technologies  
 🧠 Love solving complex problems with elegant solutions  
 🌟 Committed to creating **robust and impactful software**  
