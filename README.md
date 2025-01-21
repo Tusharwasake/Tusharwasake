@@ -41,6 +41,9 @@
 <a href="mailto:tusharwasake@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=tusharwasake@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 
 <!--
