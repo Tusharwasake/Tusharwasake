@@ -8,6 +8,13 @@
 
 ---
 
+### About Me:
+💻 Full-time developer, but when I'm not coding, you'll probably find me:  
+- 🏋️‍♂️ Breaking a sweat at the gym  
+- 🥾 Exploring new hiking trails  
+
+---
+
 ## 💬 Ask Me About:
 - **JavaScript**: Mastering modern features and best practices  
 - **Node.js**: Crafting APIs and building powerful servers with Express  
