@@ -7,6 +7,17 @@
 - Committed to creating **robust and beautiful software** with a positive impact.
 #
 
+## 🌐 Socials:
+<a href="https://www.linkedin.com/in/tusharwasake/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://stackoverflow.com/users/17971592/tushar-wasake">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a>
+<a href="https://medium.com/@tusharwasake">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 ## 💬 Ask Me About
 
 
