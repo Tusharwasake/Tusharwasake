@@ -7,7 +7,7 @@
 - Committed to creating **robust and beautiful software** with a positive impact.
 #
 
-## 🌐 Socials:
+## 📫 How to Reach Me:
 <a href="https://www.linkedin.com/in/tusharwasake/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -35,17 +35,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tusharwasake&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwasake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tusharwasake&theme=light&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tusharwasake&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 📫 How to Reach Me
 
-- [Email](mailto:tusharwasake@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/tusharwasake/)
-- [Twitter/x](https://x.com/TusharWasake)
 
 
 
