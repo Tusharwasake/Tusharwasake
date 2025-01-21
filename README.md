@@ -12,6 +12,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwasake&layout=compact)](https://github.com/Tusharwasake)
 
+### 🧰 Languages and Tools
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+
 <!--
 **Tusharwasake/Tusharwasake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
