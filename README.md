@@ -61,7 +61,7 @@
 ---
 
 ## 📫 How to Reach Me:
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/tusharwasake/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -75,3 +75,4 @@
     <img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
+
