@@ -4,12 +4,21 @@
 - Work on cutting-edge software during weekdays.  
 - Passionate about building **large-scale systems** using sophisticated technologies.  
 - Love solving complex problems with elegant solutions.  
-- Committed to creating **robust and beautiful software** with a positive impact.  
+- Committed to creating **robust and beautiful software** with a positive impact.
+#
 
-## 📈 Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharwasake&show_icons=true)](https://github.com/Tusharwasake)
+## 💬 Ask Me About
+- JavaScript - including the latest features and best practices
+- Node.js - including building APIs and servers with Express
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwasake&layout=compact)](https://github.com/Tusharwasake)
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tusharwasake&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tusharwasake&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharwasake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Tusharwasake&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### 🧰 Languages and Tools
 # 💻 Tech Stack:
@@ -21,18 +30,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tusharwasake&theme=light&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tusharwasake&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-#
-
-## 💬 Ask Me About
-- JavaScript - including the latest features and best practices
-- Node.js - including building APIs and servers with Express
-
-
-
 
 
 ## 📫 How to Reach Me
