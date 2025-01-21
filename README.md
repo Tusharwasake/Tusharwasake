@@ -2,7 +2,6 @@
 
 - **Full Stack Developer** from India.  
 - Work on cutting-edge software during weekdays.  
-- Explore mountains on weekends.  
 - Passionate about building **large-scale systems** using sophisticated technologies.  
 - Love solving complex problems with elegant solutions.  
 - Committed to creating **robust and beautiful software** with a positive impact.  
