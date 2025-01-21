@@ -61,18 +61,20 @@
 ---
 
 ## 📫 How to Reach Me:
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/tusharwasake/">
+  <a href="https://www.linkedin.com/in/tusharwasake/" title="Connect on LinkedIn" style="margin-right: 10px;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@tusharwasake">
+  <a href="https://medium.com/@tusharwasake" title="Read my Medium articles" style="margin-right: 10px;">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="mailto:tusharwasake@gmail.com">
+  <a href="mailto:tusharwasake@gmail.com" title="Send me an Email" style="margin-right: 10px;">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/TusharWasake">
+  <a href="https://x.com/TusharWasake" title="Follow me on Twitter/X">
     <img alt="Twitter/X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
+
 
