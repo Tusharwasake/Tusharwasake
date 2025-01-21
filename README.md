@@ -18,6 +18,22 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+## 💬 Ask Me About
+- JavaScript - including the latest features and best practices
+- Node.js - including building APIs and servers with Express
+
+
+
+## 📫 How to Reach Me
+
+- [Email](mailto:tusharwasake@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/tusharwasake/)
+- [Twitter/x](https://x.com/TusharWasake)
+
+
 
 
 <!--
